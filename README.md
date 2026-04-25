@@ -51,6 +51,8 @@ The project demonstrates:
 ---
 
 ## 🧠 Project Structure
+
+```
 src/
 ├── atm/
 │   ├── Main.java
@@ -65,6 +67,7 @@ src/
 │
 ├── resources/
 │   └── style.css
+```
 
 ---
 
