@@ -53,18 +53,18 @@ The project demonstrates:
 ## 🧠 Project Structure
 src/
 ├── atm/
-│ ├── Main.java
-│ ├── ATMApp.java
-│ ├── model/
-│ │ ├── Account.java
-│ │ ├── Bank.java
-│ ├── ui/
-│ │ ├── LoginView.java
-│ │ ├── MenuView.java
-│ │ ├── TransactionView.java
+│   ├── Main.java
+│   ├── ATMApp.java
+│   ├── model/
+│   │   ├── Account.java
+│   │   ├── Bank.java
+│   ├── ui/
+│   │   ├── LoginView.java
+│   │   ├── MenuView.java
+│   │   ├── TransactionView.java
 │
 ├── resources/
-│ └── style.css
+│   └── style.css
 
 ---
 
